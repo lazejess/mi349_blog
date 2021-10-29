@@ -41,6 +41,8 @@ p {
     border-bottom: 1px solid darkblue;
 
 }
-img{
-    margin-right: 2px;
+
+#jessimage {
+    width: 300px ;  
+    height: 300px;
 }
