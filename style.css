@@ -43,6 +43,10 @@ p {
 }
 
 img{
+    width: 400px ;  
+    height: 300px;
+}
+#jessimage{
     width: 300px ;  
     height: 300px;
 }
