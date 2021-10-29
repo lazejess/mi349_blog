@@ -51,6 +51,7 @@ img{
     height: 300px;
 }
 a[href$=".html"] {
-    font-style: bold;
+    font-style: italic;
+    font-size: 1em;
     font-family: Arial, Helvetica, sans-serif;
   }
