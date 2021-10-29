@@ -54,9 +54,9 @@ a[href$=".html"] {
     font-style: italic;
     font-size: 1em;
     font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 1px solid darkblue;
   }
 
 label {
-    border-top: 1px solid darkblue;
     line-height: 2em;
 }
