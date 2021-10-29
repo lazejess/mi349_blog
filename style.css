@@ -1,19 +1,27 @@
+html {
+    background-color:cornflowerblue;
+}
 body {
-    background-color: beige;
     font-family: Arial, Helvetica, sans-serif;
     margin: 20px;
+    padding: 20px;
+    color:lightskyblue;
+    border-top: 10px solid darkblue;
+    background-color: cornsilk;
 }
 h1 {
-
+    font-size: 3em;
+    margin: 0;
 }
 article {
-
+    line-height: 1.4em;
 }
 
 #blog {
-
+    border-top: 1px dotted lightskyblue;
 }
 
 .blog-post {
+    border-bottom: 1px solid skyblue;
 
 }
