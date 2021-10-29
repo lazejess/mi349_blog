@@ -57,5 +57,6 @@ a[href$=".html"] {
   }
 
 label {
+    border-top: 1px solid darkblue;
     line-height: 2em;
 }
