@@ -29,7 +29,7 @@ h3 {
     line-height: 2em;
 }
 
-article {
+p {
     line-height: 1.4em;
 }
 
@@ -40,4 +40,7 @@ article {
 .blog-post {
     border-bottom: 1px solid darkblue;
 
+}
+img{
+    margin-right: 2px;
 }
