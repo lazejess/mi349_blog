@@ -33,10 +33,10 @@ article {
 }
 
 #blog {
-    border-top: 1px dotted lightskyblue;
+    border-top: 1px solid darkblue;
 }
 
 .blog-post {
-    border-bottom: 1px solid skyblue;
+    border-bottom: 1px solid darkblue;
 
 }
