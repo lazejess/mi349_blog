@@ -50,7 +50,7 @@ img{
     width: 300px ;  
     height: 300px;
 }
-a[href$=".org"] {
+a[href$=".html"] {
     font-style: bold;
     font-family: Arial, Helvetica, sans-serif;
   }
