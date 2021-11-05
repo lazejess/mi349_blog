@@ -72,3 +72,9 @@ label {
 .datetime {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.sticky {
+    position: sticky;
+    top: 50px;
+    left: 50px;
+}
