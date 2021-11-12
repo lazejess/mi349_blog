@@ -54,7 +54,7 @@ p {
 }
 
 section {
-    display: inline;
+    display: flex;
 }
 
 article{
