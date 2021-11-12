@@ -99,6 +99,6 @@ label {
 
 @media (max-width: 400px){
     #section{
-        display:inline
+        display:inline;
     }
 }
